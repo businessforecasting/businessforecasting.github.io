@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+## QMT 3001 Business Forecasting Summer School - 2017
 
-You can use the [editor on GitHub](https://github.com/businessforecasting/businessforecasting.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This semester we will use [Google Classroom](https://classroom.google.com/) for communication and homework submission.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Usernames
+
+The format for usernames is `name.surname` - no Turkish characters. You will also have an associated email address at `name.surname@faculty.business`.
+
 
 ```markdown
-Syntax highlighted code block
+Example:
 
-# Header 1
-## Header 2
-### Header 3
+Name, Surname: Yaşar Can Doğan
+Username: yasarcan.dogan
+Email address: yasarcan.dogan@faculty.business
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Passwords
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/businessforecasting/businessforecasting.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Your password is your identity number (T.C. Kimlik number). 
 
-### Support or Contact
+### Classroom
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Navigate to [classroom.google.com](https://classroom.google.com). You are enrolled in the Business Forecasting class. Accept the invitation and login. 
+
+### Questions & Issues
+
+If you face any technical problems, send an email to `forecasting@faculty.business`.
+
